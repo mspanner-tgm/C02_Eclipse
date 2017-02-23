@@ -7,7 +7,7 @@ public class test {
 	}
 	
 	public void test3()	{
-		System.out.println("Vielleicht hallo Welt OK oder doch nicht");
+		System.out.println("Tschüss");
 	}
 	
 }
